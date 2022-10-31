@@ -1,8 +1,8 @@
 package example1;
 
 public class Clock {
-    private int hours;
-    private int minutes;
+    private Integer hours;
+    private Integer minutes;
 
     public Clock(int hours, int minutes) {
         this.setHours(hours);
